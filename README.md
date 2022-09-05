@@ -1,10 +1,10 @@
 # Swift-Exercises
 
-## [Patika 1. Proje](https://github.com/ozturkomerfaruk/Swift-Exercises/tree/master/Patika/1.%20Proje)
+## [1. Egzersiz - Patika 1. Proje](https://github.com/ozturkomerfaruk/Swift-Exercises/tree/master/Patika/1.%20Proje)
 
 * Alert Dialog öğrenildi.
 
-## [Patika 2. Proje](https://github.com/ozturkomerfaruk/Swift-Exercises/tree/master/Patika/2.%20Proje)
+## [2. Egzersiz - Patika 2. Proje](https://github.com/ozturkomerfaruk/Swift-Exercises/tree/master/Patika/2.%20Proje)
 
 * Veriler local veri tabanı olan CoreData'ya kaydedildi.
 
