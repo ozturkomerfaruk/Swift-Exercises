@@ -1,4 +1,4 @@
-# Patika Swift Eğitim
+# Proje 1
 
 Mesela iOS Ayarlar menü ekranını tasarlamak istiyoruz. TableViewController kullanıyoruz.
 
