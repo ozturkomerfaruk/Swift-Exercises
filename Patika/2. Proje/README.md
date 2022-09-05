@@ -66,17 +66,17 @@ Method halinde kullanılabilmesi şeklinde yazıldı.
 
 ### TableView kodlarının yazılması
 
-* Temel 2 fonksiyon
+## Temel 2 fonksiyon
 
 <img width="675" alt="image" src="https://user-images.githubusercontent.com/56068905/188424225-d8799b90-91f6-4753-9024-d1e8974f81d7.png">
 
-* TableView da sağa kaydırıldığında düzenleme ve silme
+## TableView da sağa kaydırıldığında düzenleme ve silme
 
-* Silme
+### Silme
 
 <img width="675" alt="image" src="https://user-images.githubusercontent.com/56068905/188424443-1f358588-47db-413a-9640-a507a5916144.png">
 
-* düzenleme
+### düzenleme
 
 <img width="647" alt="image" src="https://user-images.githubusercontent.com/56068905/188424502-5ea0d194-7728-4450-b73c-c28fa1a7c33e.png">
 
