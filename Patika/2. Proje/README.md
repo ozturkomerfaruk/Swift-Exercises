@@ -10,6 +10,8 @@ https://user-images.githubusercontent.com/56068905/188413790-1ac3547b-78a9-4f21-
 
 * TableView, ViewController'ın içerisinde çağrıldı.
 
+* TableView trailing butonlar
+
 * Fonksiyonlar parçalanarak yazıldı.
 
 ## Ekranların Hazırlanması
