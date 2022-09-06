@@ -1,36 +1,36 @@
 # Swift Experience
 
-# Closure
+## Closure
 
 <img width="337" alt="Closure 1" src="https://user-images.githubusercontent.com/56068905/188552433-69c5c816-1e5e-45e3-a96e-aea8d4f078e2.png">
 
 <img width="379" alt="Closure 2" src="https://user-images.githubusercontent.com/56068905/188552646-abe54372-f520-4581-a4a7-c5c910b76aea.png">
 
 
-# Class
+## Class
 
 <img width="666" alt="class 1" src="https://user-images.githubusercontent.com/56068905/188552750-0db01d50-e176-40ef-991f-389c5d2018d7.png">
 
 <img width="621" alt="class 2" src="https://user-images.githubusercontent.com/56068905/188552769-a0b3bec6-a740-4d05-9ffd-2440e0c8c224.png">
 
-# Protocol
+## Protocol
 
 <img width="463" alt="protocol" src="https://user-images.githubusercontent.com/56068905/188552802-490ab28d-5733-4174-98eb-16e1c940c989.png">
 
 <img width="323" alt="protocol extension" src="https://user-images.githubusercontent.com/56068905/188552816-1b9516f0-c3e0-4645-8ebd-3dab92583578.png">
 
-# Extension
+## Extension
 
 <img width="364" alt="extension" src="https://user-images.githubusercontent.com/56068905/188552831-89ebfa04-6b5f-4acf-bc09-e04cf53bc845.png">
 
-# Optional
+## Optional
 
 <img width="456" alt="optional" src="https://user-images.githubusercontent.com/56068905/188552842-7df71892-25cb-4101-8d6e-a1701e40d7ea.png">
 
-# Case Iterable
+## Case Iterable
 
 <img width="287" alt="caseIterable" src="https://user-images.githubusercontent.com/56068905/188552869-2ac2c8e0-adb8-435b-a013-fed284b94802.png">
 
-# Equatable
+## Equatable
 
 <img width="458" alt="equatable" src="https://user-images.githubusercontent.com/56068905/188552907-df265081-899e-4cb8-bef1-b3af45fb2ca3.png">
