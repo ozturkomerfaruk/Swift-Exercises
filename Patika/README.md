@@ -1,5 +1,15 @@
 # Swift Experience
 
+## Array İçerisinde Filtreleme
+
+```var sayilarDeneme = [1,2,3,4,5,6]
+
+var filtreli = [1,2,3,4,5,6].filter {
+    $0 > 4
+}
+
+
+
 ## Closure
 
 <img width="337" alt="Closure 1" src="https://user-images.githubusercontent.com/56068905/188552433-69c5c816-1e5e-45e3-a96e-aea8d4f078e2.png">
