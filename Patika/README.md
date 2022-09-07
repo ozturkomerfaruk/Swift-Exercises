@@ -63,6 +63,6 @@
 
 <img width="287" alt="caseIterable" src="https://user-images.githubusercontent.com/56068905/188552869-2ac2c8e0-adb8-435b-a013-fed284b94802.png">
 
-## Equatable
+## Equatable 
 
 <img width="458" alt="equatable" src="https://user-images.githubusercontent.com/56068905/188552907-df265081-899e-4cb8-bef1-b3af45fb2ca3.png">
