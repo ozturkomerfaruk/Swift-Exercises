@@ -2,13 +2,25 @@
 
 ## Array İçerisinde Filtreleme
 
-```var sayilarDeneme = [1,2,3,4,5,6]
+<img width="297" alt="image" src="https://user-images.githubusercontent.com/56068905/188791228-14f844be-f92f-4af0-98e2-8955e035e634.png">
 
-var filtreli = [1,2,3,4,5,6].filter {
-    $0 > 4
-}
+### Set ve Dict tanımlanması
 
+```var harfler = Set<Character>() ```
+```var dic: [String : String]?``` Optional Dict
+```var kisilerDic = [[String: String]]()```
 
+## Dict İçerisinde Filtreleme
+
+<img width="329" alt="image" src="https://user-images.githubusercontent.com/56068905/188791470-1050e69f-ae24-4cbd-ab77-f1e00519bf1e.png">
+
+## Mapleme
+
+<img width="279" alt="image" src="https://user-images.githubusercontent.com/56068905/188791589-690ec1fd-910e-4243-b667-aa40570ae569.png">
+
+### Map İle Compact Map Arasında ki Fark
+
+<img width="610" alt="image" src="https://user-images.githubusercontent.com/56068905/188791745-0568ae08-51d0-4344-83ac-fd22775dd70b.png">
 
 ## Closure
 
