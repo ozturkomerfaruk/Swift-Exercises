@@ -7,7 +7,9 @@
 ### Set ve Dict tanımlanması
 
 ```var harfler = Set<Character>() ```
+
 ```var dic: [String : String]?``` Optional Dict
+
 ```var kisilerDic = [[String: String]]()```
 
 ## Dict İçerisinde Filtreleme
