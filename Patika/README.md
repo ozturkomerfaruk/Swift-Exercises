@@ -20,9 +20,17 @@
 
 <img width="279" alt="image" src="https://user-images.githubusercontent.com/56068905/188791589-690ec1fd-910e-4243-b667-aa40570ae569.png">
 
-### Map İle Compact Map Arasında ki Fark
+### Map İle Compact Map Arasındaki Fark
 
 <img width="610" alt="image" src="https://user-images.githubusercontent.com/56068905/188791745-0568ae08-51d0-4344-83ac-fd22775dd70b.png">
+
+### FlatMap ile Reduce Arasındaki Fark
+
+<img width="635" alt="image" src="https://user-images.githubusercontent.com/56068905/188795661-50454abd-174a-4ac2-a829-4d8ff63756aa.png">
+
+
+
+
 
 ## Closure
 
