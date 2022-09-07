@@ -28,9 +28,7 @@
 
 <img width="635" alt="image" src="https://user-images.githubusercontent.com/56068905/188795661-50454abd-174a-4ac2-a829-4d8ff63756aa.png">
 
-
-
-
+[Dict Hakkında Mükemmel Bir Örnek için tıklayabilirsiniz.](https://github.com/ozturkomerfaruk/Swift-Exercises/tree/master/Patika/dictExample.playground)
 
 ## Closure
 
