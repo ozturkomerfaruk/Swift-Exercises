@@ -12,7 +12,6 @@ class ViewController: UIViewController {
     var omer = "Ömer Faruk Öztürk"
     
     @IBOutlet weak var textField: UITextField!
-    
     var gidecekMetin = ""
     
     override func viewDidLoad() {
@@ -38,7 +37,6 @@ class ViewController: UIViewController {
         view.addSubview(button)
         
         button.addTarget(self, action: #selector(buttonAction), for: .touchUpInside)
-        
     }
     
     @objc func buttonAction() {
@@ -50,6 +48,8 @@ class ViewController: UIViewController {
     @IBAction func kaydet(_ sender: UIButton) {
         gidecekMetin = textField.text!
         performSegue(withIdentifier: "toSecondVC", sender: nil)
+        
+        UserDefaults.standard.set(textField.text, forKey: "sharedPreferences")
     }
     
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
@@ -61,7 +61,23 @@ class ViewController: UIViewController {
     
     override func viewWillAppear(_ animated: Bool) {
         textField.text = ""
+        textField.placeholder = "placeholder"
+        
+        let sharedPref = UserDefaults.standard.object(forKey: "sharedPreferences")
+        if let gelenVeri = sharedPref as? String {
+            title = gelenVeri
+        }
     }
+    
+    @IBAction func sil(_ sender: UIButton) {
+        let sharedPref = UserDefaults.standard.object(forKey: "sharedPreferences")
+        
+        if sharedPref as? String  != nil {
+            UserDefaults.standard.removeObject(forKey: "sharedPreferences")
+            title = ""
+        }
+    }
+    
 }
 
 

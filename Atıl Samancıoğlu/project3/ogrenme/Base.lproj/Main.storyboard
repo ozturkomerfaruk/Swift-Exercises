@@ -32,12 +32,22 @@
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="HY1-fb-X8A">
-                                <rect key="frame" x="96" y="151" width="208" height="57"/>
+                                <rect key="frame" x="62" y="143" width="109" height="57"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="filled" title="Kaydet" subtitle=""/>
                                 <connections>
                                     <action selector="kaydet:" destination="BYZ-38-t0r" eventType="touchUpInside" id="PD5-Im-V5x"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5Th-ip-6vQ">
+                                <rect key="frame" x="244" y="143" width="109" height="57"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="filled" title="Sil" subtitle=""/>
+                                <connections>
+                                    <action selector="kaydet:" destination="BYZ-38-t0r" eventType="touchUpInside" id="lHm-BR-Xxa"/>
+                                    <action selector="sil:" destination="BYZ-38-t0r" eventType="touchUpInside" id="i9x-fd-yE9"/>
                                 </connections>
                             </button>
                         </subviews>
