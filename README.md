@@ -1,5 +1,7 @@
 # Swift-Exercises
 
+## [0. Proje - Swift Egzersizleri](https://github.com/ozturkomerfaruk/Swift-Exercises/tree/master/0.%20Proje) 
+
 ## [1. Egzersiz - Patika 1. Proje](https://github.com/ozturkomerfaruk/Swift-Exercises/tree/master/Patika/1.%20Proje)
 
 * Alert Dialog öğrenildi.
