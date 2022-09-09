@@ -25,3 +25,9 @@ Swift ile ilgili egzersizler
 * TableView trailing butonlar
 
 * Fonksiyonlar parçalanarak yazıldı.
+
+## [3. Egzersiz - BtkAkademi Kursu, Atıl Samancıoğlu](https://github.com/ozturkomerfaruk/Swift-Exercises/tree/master/Atıl%20Samancıoğlu/project3)
+
+* Segue ile veri aktarımı yapabilme
+
+* Storyboard olmadan ekran tasarımı yapabilme
