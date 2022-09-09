@@ -2,6 +2,12 @@
 
 ## [0. Proje - Swift Egzersizleri](https://github.com/ozturkomerfaruk/Swift-Exercises/tree/master/0.%20Proje) 
 
+Swift ile ilgili egzersizler
+
+* deInit Example
+
+* Dict Example
+
 ## [1. Egzersiz - Patika 1. Proje](https://github.com/ozturkomerfaruk/Swift-Exercises/tree/master/Patika/1.%20Proje)
 
 * Alert Dialog öğrenildi.
