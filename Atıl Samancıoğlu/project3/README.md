@@ -39,7 +39,7 @@ Kordinat olarak CGRect verebilmek mümkün
 
 Swift karşılığı UserDefaults olan SharedPreferences'ın kullanımı şu şekildedir:
 
-Kaydet butonuna kaydedilecek veriyi yazıyoruz.
+### Kaydet butonuna kaydedilecek veriyi yazıyoruz.
 
 ```UserDefaults.standard.set(textField.text, forKey: "sharedPreferences") ```
 
@@ -47,4 +47,7 @@ Kaydet butonuna kaydedilecek veriyi yazıyoruz.
 
 <img width="607" alt="image" src="https://user-images.githubusercontent.com/56068905/189353689-45998107-5e57-4fbe-ae33-37969fb2cb16.png">
 
+### Silme işlemi için
+
+<img width="694" alt="image" src="https://user-images.githubusercontent.com/56068905/189355480-73ddfd4c-de8d-42f9-b763-2b1653737bb3.png">
 
