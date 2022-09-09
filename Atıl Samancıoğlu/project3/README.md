@@ -33,3 +33,18 @@ View did appear --> sayfa yüklendikten sonra çağrılıyor ve sayfa açıldı�
 Flutter'da ki gibi MediaQuery kullanımı var.
 
 Kordinat olarak CGRect verebilmek mümkün
+
+
+## SharedPreferences Kulanmak
+
+Swift karşılığı UserDefaults olan SharedPreferences'ın kullanımı şu şekildedir:
+
+Kaydet butonuna kaydedilecek veriyi yazıyoruz.
+
+```UserDefaults.standard.set(textField.text, forKey: "sharedPreferences") ```
+
+Örneğin View Will Appear 'da da bunu
+
+<img width="607" alt="image" src="https://user-images.githubusercontent.com/56068905/189353689-45998107-5e57-4fbe-ae33-37969fb2cb16.png">
+
+
