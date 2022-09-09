@@ -73,4 +73,3 @@ Değişkenler tanımlandı ve tıklanabilirlik geldi
 
 <img width="814" alt="image" src="https://user-images.githubusercontent.com/56068905/189426132-b0fc4e14-f905-459d-91ce-2ade607e50b4.png">
 
-<img width="694" alt="image" src="https://user-images.githubusercontent.com/56068905/189355480-73ddfd4c-de8d-42f9-b763-2b1653737bb3.png">
