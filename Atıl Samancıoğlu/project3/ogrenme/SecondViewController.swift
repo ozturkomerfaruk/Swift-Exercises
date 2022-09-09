@@ -10,17 +10,11 @@ import UIKit
 class SecondViewController: UIViewController {
     
     @IBOutlet weak var label: UILabel!
-    
     var gelenMetin = "asd"
 
     override func viewDidLoad() {
         super.viewDidLoad()
         
         label.text = gelenMetin
-        
     }
-    
-
-   
-
 }

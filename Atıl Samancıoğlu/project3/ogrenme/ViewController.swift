@@ -48,9 +48,7 @@ class ViewController: UIViewController {
     
     
     @IBAction func kaydet(_ sender: UIButton) {
-        
         gidecekMetin = textField.text!
-        
         performSegue(withIdentifier: "toSecondVC", sender: nil)
     }
     
@@ -61,6 +59,9 @@ class ViewController: UIViewController {
         }
     }
     
+    override func viewWillAppear(_ animated: Bool) {
+        textField.text = ""
+    }
 }
 
 
