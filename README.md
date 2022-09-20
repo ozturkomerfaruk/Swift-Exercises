@@ -1,6 +1,6 @@
 # Swift-Exercises
 
-## [0. Proje - Swift Egzersizleri](https://github.com/ozturkomerfaruk/Swift-Exercises/tree/master/0.%20Proje) 
+## [0. Egzersiz - Swift Egzersizleri](https://github.com/ozturkomerfaruk/Swift-Exercises/tree/master/0.%20Proje) 
 
 Swift ile ilgili egzersizler
 
