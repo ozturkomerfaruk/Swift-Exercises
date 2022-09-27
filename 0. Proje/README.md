@@ -80,7 +80,7 @@ varsayılan olarak boş bir string liste aktarılır
 
 ## Closure kolaylıklar
 
-![Uploading image.png…]()
+<img width="292" alt="image" src="https://user-images.githubusercontent.com/56068905/192592530-7d501d1d-49c5-4d47-a319-89b61e74688a.png">
 
 
 ## Class
@@ -94,3 +94,14 @@ varsayılan olarak boş bir string liste aktarılır
 Aynı zamanda burada ***Equatable Örneği var***
 
 <img width="369" alt="image" src="https://user-images.githubusercontent.com/56068905/189033594-772f3d35-2645-4753-964a-fb235d22ecd8.png">
+
+
+
+
+
+
+
+### Guard kullanımı
+
+![Uploading image.png…]()
+
