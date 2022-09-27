@@ -1,6 +1,6 @@
 # Swift Experience
 
-## Basit Örnekler
+# Basit Örnekler
 
 1. tip dönüşümü yapmak istersen bu şekilde yap!
 
@@ -10,6 +10,25 @@
 
 <img width="476" alt="image" src="https://user-images.githubusercontent.com/56068905/192434845-dc87856b-eab6-4eef-9e4e-e2f8992be77f.png">
 
+3. random sayı
+
+<img width="466" alt="image" src="https://user-images.githubusercontent.com/56068905/192439140-2195d909-495f-41d7-be78-25387613511a.png">
+
+4. matematiksel ifadeler
+
+<img width="466" alt="image" src="https://user-images.githubusercontent.com/56068905/192439179-72f9d4ff-6aca-4a2a-b8c9-7d0fccb5ba4b.png">
+
+5. tarih işlemleri
+
+<img width="403" alt="image" src="https://user-images.githubusercontent.com/56068905/192439217-548a0b3a-825f-41c7-8667-8c564301103d.png">
+
+6. Özel ifadeler ve kendi aralarında işlemleri
+
+<img width="701" alt="image" src="https://user-images.githubusercontent.com/56068905/192439295-a2ad86fe-5967-411f-9782-3caa20142736.png">
+
+
+
+# İleri Swift
 
 ## Array İçerisinde Filtreleme
 
