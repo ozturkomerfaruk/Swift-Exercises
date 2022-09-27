@@ -103,5 +103,4 @@ Aynı zamanda burada ***Equatable Örneği var***
 
 ### Guard kullanımı
 
-![Uploading image.png…]()
-
+![image](https://user-images.githubusercontent.com/56068905/192592716-6e3e33b1-6b58-4e2d-a85d-c382d718119b.png)
