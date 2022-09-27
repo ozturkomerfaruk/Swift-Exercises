@@ -1,5 +1,16 @@
 # Swift Experience
 
+## Basit Örnekler
+
+1. tip dönüşümü yapmak istersen bu şekilde yap!
+
+<img width="207" alt="image" src="https://user-images.githubusercontent.com/56068905/192434783-7c322712-1234-4d89-bc89-125719a8fc3e.png">
+
+2. for içerisinde +2 artış yapmak için
+
+<img width="476" alt="image" src="https://user-images.githubusercontent.com/56068905/192434845-dc87856b-eab6-4eef-9e4e-e2f8992be77f.png">
+
+
 ## Array İçerisinde Filtreleme
 
 <img width="297" alt="image" src="https://user-images.githubusercontent.com/56068905/188791228-14f844be-f92f-4af0-98e2-8955e035e634.png">
