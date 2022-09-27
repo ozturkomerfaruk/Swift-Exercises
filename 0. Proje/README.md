@@ -1,5 +1,19 @@
 # Swift Experience
 
+#Threads Örneği
+
+![image](https://user-images.githubusercontent.com/56068905/192600976-c3551ad1-7a41-480a-9f01-d9514a861513.png)
+
+yukarıdaki listeye göre thread önceliği bulunmaktadır.
+
+<img width="576" alt="image" src="https://user-images.githubusercontent.com/56068905/192600846-79aaf600-eea2-453e-9e99-5403a89e2d17.png">
+
+Bu durumda print alırken background çıktıları daha sonra çıkmaktadır. Ancak en öncelik Main dir.
+
+<img width="582" alt="image" src="https://user-images.githubusercontent.com/56068905/192601249-d2c4a3d0-59c5-4294-9ed7-1b98d4c9d02a.png">
+
+Gecikme eklemek istersek bu şekilde bir kod yazımı söz konusudur.
+
 # Basit Örnekler
 
 1. tip dönüşümü yapmak istersen bu şekilde yap!
