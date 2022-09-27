@@ -104,3 +104,8 @@ Aynı zamanda burada ***Equatable Örneği var***
 ### Guard kullanımı
 
 ![image](https://user-images.githubusercontent.com/56068905/192592716-6e3e33b1-6b58-4e2d-a85d-c382d718119b.png)
+
+### Try Catch
+
+<img width="388" alt="image" src="https://user-images.githubusercontent.com/56068905/192595480-64264370-be2b-410a-8830-4e8b3c5eb4ff.png">
+
