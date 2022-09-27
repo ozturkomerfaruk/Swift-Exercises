@@ -27,6 +27,15 @@
 <img width="701" alt="image" src="https://user-images.githubusercontent.com/56068905/192439295-a2ad86fe-5967-411f-9782-3caa20142736.png">
 
 
+#Notlar
+
+as? den sonra gelen dönüştürülecek tip
+
+?? den sonra gelen userdefaulttan veri alırken sıkıntı olursa
+
+varsayılan olarak boş bir string liste aktarılır
+
+
 
 # İleri Swift
 
