@@ -26,6 +26,9 @@
 
 <img width="701" alt="image" src="https://user-images.githubusercontent.com/56068905/192439295-a2ad86fe-5967-411f-9782-3caa20142736.png">
 
+7. String tersten yazdırma
+
+<img width="640" alt="image" src="https://user-images.githubusercontent.com/56068905/192590636-377d1bd9-acce-4dcc-ad84-b7fb892cbbec.png">
 
 #Notlar
 
@@ -74,6 +77,11 @@ varsayılan olarak boş bir string liste aktarılır
 ## Closure ve DidSet Yapısı
 
 <img width="534" alt="image" src="https://user-images.githubusercontent.com/56068905/189033361-2db9f768-aa43-44e4-9c3c-48f940c0d908.png">
+
+## Closure kolaylıklar
+
+![Uploading image.png…]()
+
 
 ## Class
 
